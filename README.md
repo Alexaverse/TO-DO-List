@@ -10,7 +10,7 @@ Check it out live here: [TO-DO List Website](https://alexaverse.github.io/TO-DO-
 ## Features
 - Add new tasks to the list.
 - Delete individual tasks.
-- Clear all tasks at once.
+- The title **"Today's Targets"** is editable, allowing users to customize it as per their preference.
 - Interactive and responsive design.
 - Easy-to-use interface.
 
